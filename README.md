@@ -15,9 +15,10 @@ its real terrain, its wind and the people who fly over it.
       <sub>TypeScript · three.js</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/iloire/lanzarote3d"><img src="https://raw.githubusercontent.com/iloire/lanzarote3d/master/docs/screenshots/home.png" alt="Two paragliders soaring over Famara beach in low poly"></a>
+      <a href="https://3d.lanzaroteparagliding.com"><img src="https://raw.githubusercontent.com/iloire/lanzarote3d/master/docs/screenshots/home.png" alt="Two paragliders soaring over Famara beach in low poly"></a>
       <h3><a href="https://github.com/iloire/lanzarote3d">Lanzarote 3D</a></h3>
       A low-poly Lanzarote: paragliders ridge-soar the Famara cliffs over a real height map, with a living sea, gulls, towns, boats and planes.<br><br>
+      <b><a href="https://3d.lanzaroteparagliding.com">▶ Explore it in your browser</a></b><br>
       <sub>TypeScript · three.js</sub>
     </td>
     <td width="33%" valign="top">
