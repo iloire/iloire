@@ -29,19 +29,6 @@ its real terrain, its wind and the people who fly over it.
   </tr>
 </table>
 
-## More on the island
-
-- [**Driving sim**](https://github.com/iloire/driving-sim): the real roads and terrain of Lanzarote, by car ([drive it](https://iloire.github.io/driving-sim/))
-- [**Timanfaya 1730**](https://github.com/iloire/timanfaya-1730): the 1730–1736 eruption replayed on the real terrain ([watch it](https://iloire.github.io/timanfaya-1730/))
-- [**Transit simulator**](https://github.com/iloire/transit-simulator): multi-lane traffic with IDM car-following and MOBIL lane changes ([run it](https://iloire.github.io/transit-simulator/))
-- [**diskscope**](https://github.com/iloire/diskscope): a fast cushion-treemap disk usage explorer for macOS, in Rust
-
-## From the archive
-
-- [**watchmen**](https://github.com/iloire/watchmen) ⭐ 930: a simple Node.js service monitor
-- [**asp.net-mvc-example-invoicing-app**](https://github.com/iloire/asp.net-mvc-example-invoicing-app) ⭐ 222: an example invoicing app in ASP.NET MVC
-- [**math-race**](https://github.com/iloire/math-race) ⭐ 115: a real-time multiplayer maths game on socket.io
-
 ---
 
 <sub>🪂 Lanzarote · [iloire.com](http://www.iloire.com)</sub>
