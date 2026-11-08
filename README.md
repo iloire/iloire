@@ -28,6 +28,15 @@ its real terrain, its wind and the people who fly over it.
       <sub>TypeScript · Tauri</sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="3" valign="top">
+      <h3>Devil Watchdog <sub>(private)</sub></h3>
+      One inbox for everything I run: my websites, apps, servers and cron jobs. Apps push events to it, it polls endpoints and checks heartbeats, and it pings me on Telegram when something needs me. When all is well, it sits at inbox zero.<br><br>
+      <img src="screenshots/devilwatchdog.png" width="49%" alt="Devil Watchdog inbox with a payment.failed thread open">
+      <img src="screenshots/devilwatchdog-timeline.png" width="49%" alt="Devil Watchdog thread timeline with nearby events from the same project"><br>
+      <sub>TypeScript · Next.js · Turso</sub>
+    </td>
+  </tr>
 </table>
 
 ---
