@@ -38,10 +38,10 @@ Lately I build some low poly world in the browser inspired in paragliding.
     </td>
     <td width="50%" valign="top">
       <a href="https://3d.lanzaroteparagliding.com/relax.html"><img src="screenshots/relax-giza.jpg" alt="A paramotor flying past the pyramids of Giza"></a>
-      <h3><a href="https://3d.lanzaroteparagliding.com/relax.html">Relaxing low-poly flying scenes</a></h3>
+      <h3><a href="https://github.com/iloire/lanzarote3d">Relaxing low-poly flying scenes</a></h3>
       Pick a place and watch gliders soar its ridge: Lanzarote, Tenerife, Rio de Janeiro, paramotors in the street canyons of New York, round the Eiffel Tower or the pyramids of Giza.<br><br>
       <b><a href="https://3d.lanzaroteparagliding.com/relax.html">▶ Relax in your browser</a></b><br>
-      <sub>TypeScript · three.js · <a href="https://github.com/iloire/lanzarote3d">source</a></sub>
+      <sub>TypeScript · three.js</sub>
     </td>
   </tr>
   <tr>
