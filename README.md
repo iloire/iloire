@@ -8,10 +8,10 @@ its real terrain, its wind and the people who fly over it.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://iloire.github.io/paragliding-sim/"><img src="https://raw.githubusercontent.com/iloire/paragliding-sim/main/docs/screenshots/welcome.png" alt="Famara Glide welcome screen over the Famara cliffs"></a>
-      <h3><a href="https://github.com/iloire/paragliding-sim">Famara Glide</a></h3>
-      A paragliding simulator over real terrain in Lanzarote and the Pyrenees, with a lift model that behaves like the air at the sites I fly.<br><br>
-      <b><a href="https://iloire.github.io/paragliding-sim/">▶ Fly it in your browser</a></b><br>
+      <a href="https://iloire.github.io/driving-sim/"><img src="https://raw.githubusercontent.com/iloire/driving-sim/main/docs/screenshots/roadster.png" alt="The Roadster on the LZ-67 through the lava fields of Timanfaya"></a>
+      <h3><a href="https://github.com/iloire/driving-sim">Driving Sim</a></h3>
+      A driving simulator over real places in Spain, with every OpenStreetMap road carved into the terrain. Drive the LZ-67 through Timanfaya, go off-road across the lava, or press F to take off.<br><br>
+      <b><a href="https://iloire.github.io/driving-sim/">▶ Drive it in your browser</a></b><br>
       <sub>TypeScript · three.js</sub>
     </td>
     <td width="33%" valign="top">
