@@ -1,6 +1,6 @@
-### Hi, I'm Ivan 👋
+<a href="https://3d.lanzaroteparagliding.com"><img src="banner.svg" width="100%" alt="Hi, I'm Ivan. I write software and fly paragliders in Lanzarote."></a>
 
-I write software and fly paragliders in Lanzarote. Lately I build the island itself in the browser:
+Lately I build the island itself in the browser:
 its real terrain, its wind and the people who fly over it.
 
 ## What I'm building now
