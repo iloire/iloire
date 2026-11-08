@@ -1,7 +1,6 @@
-<a href="https://3d.lanzaroteparagliding.com"><img src="banner.svg" width="100%" alt="Hi, I'm Ivan. I write software and fly paragliders in Lanzarote."></a>
+<a href="https://3d.lanzaroteparagliding.com"><img src="banner.svg" width="100%" alt="Hi, I'm Ivan. I design software and sheperd agents."></a>
 
-Lately I build the island itself in the browser:
-its real terrain, its wind and the people who fly over it.
+Lately I build the island itself in the browser: its real terrain, its wind and the people who fly over it.
 
 ## Shepherding AI agents
 
@@ -38,11 +37,11 @@ its real terrain, its wind and the people who fly over it.
       <sub>TypeScript · three.js</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://3d.lanzaroteparagliding.com"><img src="https://raw.githubusercontent.com/iloire/lanzarote3d/master/docs/screenshots/home.png" alt="Two paragliders soaring over Famara beach in low poly"></a>
-      <h3><a href="https://github.com/iloire/lanzarote3d">Lanzarote 3D</a></h3>
-      A low-poly Lanzarote: paragliders ridge-soar the Famara cliffs over a real height map, with a living sea, gulls, towns, boats and planes.<br><br>
-      <b><a href="https://3d.lanzaroteparagliding.com">▶ Explore it in your browser</a></b><br>
-      <sub>TypeScript · three.js</sub>
+      <a href="https://3d.lanzaroteparagliding.com/relax.html"><img src="https://raw.githubusercontent.com/iloire/lanzarote3d/master/docs/screenshots/home.png" alt="Two paragliders soaring over Famara beach in low poly"></a>
+      <h3><a href="https://3d.lanzaroteparagliding.com/relax.html">Relaxing flying scenes</a></h3>
+      Pick a place and watch gliders soar its ridge: Lanzarote, Tenerife, Rio de Janeiro, paramotors in the street canyons of New York, round the Eiffel Tower or the pyramids of Giza.<br><br>
+      <b><a href="https://3d.lanzaroteparagliding.com/relax.html">▶ Relax in your browser</a></b><br>
+      <sub>TypeScript · three.js · <a href="https://github.com/iloire/lanzarote3d">source</a></sub>
     </td>
   </tr>
 </table>
