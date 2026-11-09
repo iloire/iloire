@@ -18,8 +18,8 @@ Lately I build some low poly world in the browser inspired in paragliding.
     <td  valign="top">
       <h3>Devil Watchdog <sub>(private)</sub></h3>
       My agents ship all day, so something has to watch what they ship. One inbox for my sites, servers and cron jobs, and a Telegram ping when something breaks.<br><br>
-      <img src="screenshots/devilwatchdog.png" width="49%" alt="Devil Watchdog inbox with a payment.failed thread open">
-      <img src="screenshots/devilwatchdog-timeline.png" width="49%" alt="Devil Watchdog thread timeline with nearby events from the same project"><br>
+      <img src="screenshots/devilwatchdog.png" width="49%" alt="Devil Watchdog inbox in the light theme with a down monitor open">
+      <img src="screenshots/devilwatchdog-timeline.png" width="49%" alt="Devil Watchdog payment.failed thread with a note and its timeline"><br>
       <sub>TypeScript · Next.js · Turso</sub>
     </td>
   </tr>
